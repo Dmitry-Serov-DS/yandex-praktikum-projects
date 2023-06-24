@@ -31,4 +31,4 @@
 
 # Используемые библиотеки:
 
-pandas, seaborn, matplotlib.pyplot, numpy, sklearn, pyod.models.knn, phik
+pandas, seaborn, matplotlib.pyplot, numpy, r2_score, sklearn, pyod.models.knn, phik
