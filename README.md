@@ -2,7 +2,7 @@
 Репозитарий содержит проекты, которые были выполнены в рамках обучения в Яндекс Практикуме.  
 
 🎓 [Диплом об окончании курса (RU)](https://github.com/Dmitry-Serov-DS/yandex-praktikum-projects/blob/main/Диплом_Практикум_DS_СеровДА_RU.pdf "Заголовок ссылки")  
-🎓 [Диплом об окончании курса (EN)](https://github.com/Dmitry-Serov-DS/yandex-praktikum-projects/blob/main/Certificate_YaPracticum_DS_SerovDA_EN.pdf)
+🎓 [Certificate_Yandex Practicum (EN)](https://github.com/Dmitry-Serov-DS/yandex-praktikum-projects/blob/main/Certificate_YaPracticum_DS_SerovDA_EN.pdf)
 
 
 | Название проекта | Тема | Описание | инструменты  | Статус  |
